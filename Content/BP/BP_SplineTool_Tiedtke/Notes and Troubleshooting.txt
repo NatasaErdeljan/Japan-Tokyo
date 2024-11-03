@@ -1,0 +1,22 @@
+Below are some important notes:
+
+1. Currently Unreal Engine 5 Early Access is NOT supported, please download the latest Unreal Engine 5 "Preview" Build from the Epic Marketplace. 
+
+2. Always align your mesh to face positive X forward, otherwise the blueprints won't work correctly. 
+
+3. If you duplicate a Wire BP actor (3rd tool) when it's connected to another mesh in the details panel, it MIGHT crash. Make sure to break the connection first, then duplicate it.
+
+4. For the Deformation BP, make sure your mesh has lots of subdivisions along the X axis to be able to bend nicely. 
+
+If you're having issues or something doesn't work as expected, please let me know by leaving a comment on the Youtube tutorial video and I will have a look at it! 
+
+Youtube tutorial video: https://youtu.be/FmOSut0h6kI
+
+
+
+Thanks!
+
+Best regards,
+Michael
+
+ 
